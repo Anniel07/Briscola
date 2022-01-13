@@ -11,6 +11,8 @@ These application can run on the JVM on desktop platforms. To run the applicatio
 ```
 mvn javafx:run
 ```
+## A view of the app
+![Screenshot](view-app.png)
 
 ## More information
 
